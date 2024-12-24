@@ -1,3 +1,3 @@
-module gitlab.com/clabz/logger
+module github.com/clabz/logger
 
 go 1.22.2
